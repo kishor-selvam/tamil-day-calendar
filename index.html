@@ -8,9 +8,27 @@
     <!-- TailwindCSS -->
     <link rel="stylesheet" href="./assets/css/index.css" />
   </head>
-  <body>
-    <!-- Write your HTML here -->
-    <div id="app" class="text-3xl font-bold">Hello Vite HTML & Tailwind!</div>
+  <body class="bg-slate-900">
+    <div class="p-10 rounded m-20 bg-gray-500">
+      <label class="text-white block text-xl font-semibold" for="dateinput"
+        >Select Date</label
+      >
+      <input
+        type="date"
+        id="dateinput"
+        class="rounded px-3 py-1 outline-none"
+        placeholder="Enter Your Date"
+      />
+      <button
+        class="bg-gradient-to-r from-fuchsia-600 to-purple-600 text-white px-3 py-1 ml-1 rounded hover:opacity-90 transition-all hover:scale-105 duration-200"
+      >
+        Get Calendar
+      </button>
+    </div>
+    <div>
+      <img src="https://www.tamildailycalendar.com/2024/1022024.jpg" alt="" />
+    </div>
+
     <script type="module" src="./assets/js/main.js"></script>
   </body>
 </html>

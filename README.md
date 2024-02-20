@@ -1,6 +1,6 @@
-# Your App Title
+# Tamil Day Calendar App
 
-Write app description in detail!
+Simple calendar listed application using js!
 
 #### Screenshots
 
@@ -10,25 +10,25 @@ Write app description in detail!
 
 | 🚧 Build Status  | [![Netlify Status](https://img.shields.io/github/actions/workflow/status/anburocky3/festival-greeting-app/deploy.yml?logo=github&label=Live)](https://app.netlify.com/sites/cyberdude-internship/deploys) |
 | ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ Live Website: | https://anburocky3.github.io/vite-html-tailwind                                                                                                                                                           |
+| ✅ Live Website: | https://kishor-selvam.github.io/tamil-day-calendar/                                                                                                                                                      |
 
 ---
 
-### GitHub Template
+<!-- ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/anburocky3/vite-html-tailwind/generate).
+[Create a repo from this template on GitHub](https://github.com/anburocky3/vite-html-tailwind/generate). -->
 
-### Clone to local
+<!-- ### Clone to local -->
 
-If you prefer to do it manually with the cleaner git history
+<!-- If you prefer to do it manually with the cleaner git history -->
 
-```bash
+<!-- ```bash
 npx degit anburocky3/vite-html-tailwind my-app
 cd my-app
 npm install # Install dependencies
-```
+``` -->
 
-## Checklist
+<!-- ## Checklist
 
 When you use this template, try follow the checklist to update your info properly
 
@@ -36,9 +36,9 @@ When you use this template, try follow the checklist to update your info properl
 - [ ] Change the title and unnecessary info in `index.html`
 - [ ] According to your usage, modify READMEs
 
-And, enjoy :)
+And, enjoy :) -->
 
-## Usage
+<!-- ## Usage -->
 
 ### Development
 
@@ -47,7 +47,6 @@ npm run dev
 ```
 
 Just run and visit http://localhost:5173
-
 
 ### Build
 
@@ -85,6 +84,6 @@ npm run preview
 
 #### Authors:
 
-- [Anbuselvan Rocky](https://fb.me/anburocky3)
-
-[![Deploy to GH Pages](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml)
+- [Kishor](https://github.com/kishor-selvam)
+<!-- 
+[![Deploy to GH Pages](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml) -->
